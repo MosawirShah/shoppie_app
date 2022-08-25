@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345479284247",
+    "project_id": "shoppie-app-a391f",
+    "storage_bucket": "shoppie-app-a391f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345479284247:android:142270cfff46cfd5f77e52",
+        "android_client_info": {
+          "package_name": "com.navttc.shoppify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345479284247-rne2mf9pgf8qute4qrsjh35puvpj9ips.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09jEYjRkGcua5-r3XDTpYB0IJnVvF53I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345479284247-rne2mf9pgf8qute4qrsjh35puvpj9ips.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
