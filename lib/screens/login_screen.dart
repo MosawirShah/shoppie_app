@@ -112,7 +112,7 @@ class _LoginScreenState extends State<LoginScreen> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Center(child: Text("I hav'nt an account.")),
+                  Center(child: Text("I have'nt an account.")),
                   TextButton(
                       onPressed: () {
                         Navigator.of(context).push(MaterialPageRoute(builder: (context)=>RegisterScreen()));
